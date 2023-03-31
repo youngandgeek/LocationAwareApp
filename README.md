@@ -1,5 +1,5 @@
 # LocationAwareApp
-Android Location Aware Application with different location Sensitivity.
+📍Android Location Aware Application with different location Sensitivity.
 
 
 get the current location by:
