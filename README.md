@@ -1,6 +1,10 @@
 # LocationAwareApp
 Android Location Aware Application with different location Sensitivity.
-get the current location by Fine location: Determined by using GPS data in addition to mobile and WiFi data. This allows for more accurate geolocation
+
+
+get the current location by:
+
+Fine location: Determined by using GPS data in addition to mobile and WiFi data. This allows for more accurate geolocation
 or
 
 
